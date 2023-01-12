@@ -47,6 +47,8 @@
 
 例如，函数 $f(x)=\operatorname{\frac{d}{dx}}(\sinh(x)e^x)+x^3$ 应输入为 dy_dx('sinh(x)*exp(x)',x)+pow(x,3)
 
+正确输入了表达式，然后按下 <kbd>ENTER</kbd> ，函数图像就能够绘制了
+
 ### part2 视窗控制
 
 当函数图像成功绘制的时候，你可以通过键盘控制视窗位置，以此来观察该函数任何一处的性态
